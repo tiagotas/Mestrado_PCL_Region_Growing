@@ -1,0 +1,6 @@
+Parametros para Segmentacao do Cenario 22
+
+distanceThreshold: 3
+pointColorThreshold: 1
+regionColorThreshold: 3.5
+minClusterSize: 600

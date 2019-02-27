@@ -1,0 +1,6 @@
+Parametros para Segmentacao do Cenario 47
+
+distanceThreshold: 1
+pointColorThreshold: 2.5
+regionColorThreshold: 6
+minClusterSize: 600
