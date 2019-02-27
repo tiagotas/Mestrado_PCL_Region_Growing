@@ -1,0 +1,98 @@
+CONVERSOR DE CORES ONLINE
+http://colormine.org/color-converter
+
+Minha questão:
+https://stackoverflow.com/questions/50340255/pcl-region-growing-with-lab-color-space
+
+http://www.pcl-users.org/PCL-Region-Growing-with-LAB-Color-Space-tp4046178.html
+
+
+Questão anterior:
+http://www.pcl-developers.org/RGB-to-CIEL-color-space-color-based-segmentation-td5709511.html
+
+______________________________________________________________________________________________
+CONFIGURAÇÃO DO VISUAL STUDIO PARA TRABALHAR COM LAB
+
+http://www.pcl-users.org/Deprecated-Error-C4996-pcl-SAC-SAMPLE-SIZE-in-PCL1-8-td4041337.html
+- Configurar SDL: properties->C/C++->common->SDL choose No
+
+
+https://github.com/PointCloudLibrary/pcl/issues/2013
+- Adicionar include:
+#include "pcl/registration/gicp6d.h"
+
+______________________________________________________________________________________________
+CONVERSÃO DE NUVEM DE RGB PARA CIELAB
+https://answers.ros.org/question/242071/pointxyzrgb-to-cielab-conversion/
+
+______________________________________________________________________________________________
+DOCUMENTAÇÃO DA REGION GROWING EM RGB:
+http://pointcloudlibrary.github.io/documentation/classpcl_1_1_region_growing_r_g_b-members.html
+http://docs.pointclouds.org/trunk/classpcl_1_1_region_growing_r_g_b.html
+http://docs.pointclouds.org/trunk/classpcl_1_1_region_growing_r_g_b.html#a8aadf64f9e974fea4bbc9be532526125
+http://docs.pointclouds.org/trunk/classpcl_1_1_region_growing_r_g_b.html#a27cc209fc830c696158e21723fecf9d4
+
+
+______________________________________________________________________________________________
+ESTRUTURA DA REGION GROWING EM RGB:
+
+https://github.com/PointCloudLibrary/pcl/blob/master/segmentation/include/pcl/segmentation/impl/region_growing_rgb.hpp
+
+https://github.com/PointCloudLibrary/pcl/blob/master/segmentation/include/pcl/segmentation/region_growing_rgb.h
+
+https://github.com/PointCloudLibrary/pcl/blob/master/segmentation/src/region_growing_rgb.cpp
+
+
+
+
+
+
+
+https://github.com/PointCloudLibrary/pcl/blob/master/segmentation/include/pcl/segmentation/region_growing.h
+
+
+
+
+http://docs.pointclouds.org/trunk/region__growing__rgb_8h_source.html
+
+
+______________________________________________________________________________________________
+Conversão de RGB para LAB em CPP:
+
+https://github.com/PointCloudLibrary/pcl/blob/master/registration/src/gicp6d.cpp
+
+http://docs.pointclouds.org/trunk/structpcl_1_1_point_x_y_z_l_a_b.html
+
+http://webcache.googleusercontent.com/search?q=cache:http://telin.ugent.be/~mvlaminc/pcl/vc10/include/pcl-1.7/pcl/registration/gicp6d.h
+
+https://github.com/sdmiller/cpu_tsdf/blob/master/src/lib/octree.cpp
+
+https://github.com/jvgomez/FloorReconstruction/blob/master/src/src/extract_colour.cpp
+
+______________________________________________________________________________________________
+
+LAB
+http://www.jpereira.net/software-revisiones-y-consejos/cloudcompare-analisis-de-nubes-de-puntos-para-fotogrametria
+
+
+
+region growing animado na web
+
+https://openlayers.org/en/latest/examples/region-growing.html
+
+______________________________________________________________________________________________
+
+CALCULAR CIE 2000 em C++
+
+
+https://github.com/gfiumara/CIEDE2000/blob/master/CIEDE2000.cpp
+
+
+
+
+
+
+
+
+
+

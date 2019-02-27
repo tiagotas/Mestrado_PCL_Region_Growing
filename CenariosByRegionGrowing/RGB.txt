@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/50571398/clarification-on-conversion-between-rgb-and-cielab
+https://docs.opencv.org/2.4/modules/imgproc/doc/miscellaneous_transformations.html#cvtcolor
+
+RGB:
+
+CIELAB
+https://en.wikipedia.org/wiki/Color_difference
+
+Delta E:
+
+http://zschuessler.github.io/DeltaE/learn/
+
+
